@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org.springframework.context.jar (3)/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/spring-dao-2.0.6.jar (1)/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/com.springsource.org.hibernate-3.2.6.ga.jar (2)/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org.springframework.core-3.1.0.release.jar (1)/org.springframework.core-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org.springframework.beans.jar (1)/org.springframework.beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org-apache-commons-logging.jar (1)/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/commons-dbcp-1.4.jar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org.springframework.jdbc-3.0.2.release.jar/org.springframework.jdbc-3.0.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/javax.transaction.jar (1)/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/retroweaver-rt-2.0.jar/retroweaver-rt-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/commons-pool-1.6.jar/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/spring-2.5.6.jar/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/spring-hibernate-1.2.6.jar/spring-hibernate-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/org.springframework.orm-3.1.2.release.jar (2)/org.springframework.orm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/ojdbc14.jar (1)/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/dom4j-1.5.jar (1)/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/commons-collections-3.2.1-1.0.0.jar (1)/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HI/Downloads/com.springsource.net.sf.cglib-2.2.0.jar/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
